@@ -1,0 +1,1 @@
+Built in C++, this Login and Registration System streamlines the user signup experience. It captures necessary user credentials, specifically usernames and passwords, and ensures data integrity by creating individual user files within the database upon successful registration. This approach provides a foundational layer for secure user management.
